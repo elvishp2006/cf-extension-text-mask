@@ -71,7 +71,6 @@ window.carbon = window.carbon || {};
 		 * Initialize the code responsible for the DOM manipulations
 		 */
 		initField: function() {
-			console.log('teste');
 			// Add your logic here
 		},
 
